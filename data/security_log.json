@@ -1,0 +1,272 @@
+[
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 12:40",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "LOGIN_FAILED_ATTEMPT",
+        "time": "2026-05-14 13:02",
+        "detail": "1 failed attempt(s)"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 13:02",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 13:22",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 14:20",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 14:38",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 14:52",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 14:52",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:04",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:04",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:04",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:29",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:30",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:49",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 15:50",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:52",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 15:55",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "LOGIN_FAILED_ATTEMPT",
+        "time": "2026-05-14 16:12",
+        "detail": "1 failed attempt(s)"
+    },
+    {
+        "event": "LOGIN_FAILED_ATTEMPT",
+        "time": "2026-05-14 16:12",
+        "detail": "2 failed attempt(s)"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:12",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:13",
+        "detail": "Label: Insta"
+    },
+    {
+        "event": "Password copied",
+        "time": "2026-05-14 16:14",
+        "detail": "Category view password copied"
+    },
+    {
+        "event": "Password edited",
+        "time": "2026-05-14 16:15",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:15",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:16",
+        "detail": "Label: laptop"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:16",
+        "detail": "Label: Snapchat"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:16",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:18",
+        "detail": "Label: Laptopo"
+    },
+    {
+        "event": "Password edited",
+        "time": "2026-05-14 16:19",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:20",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:20",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:21",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:21",
+        "detail": "Label: Snapchat"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:22",
+        "detail": "Label: Kabarak mail"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:23",
+        "detail": "Label: Google account"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:27",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:28",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:31",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:31",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:33",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 16:37",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:37",
+        "detail": "Label: Snapchat"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:38",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:38",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:39",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:39",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:40",
+        "detail": "Label: Laptop"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:40",
+        "detail": "Label: SHA"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-14 16:41",
+        "detail": "Label: NSSF"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:41",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:41",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:42",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Password deleted",
+        "time": "2026-05-14 16:42",
+        "detail": "A vault entry was removed"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 17:13",
+        "detail": "User logged into vault"
+    }
+]

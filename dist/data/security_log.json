@@ -1,0 +1,167 @@
+[
+    {
+        "event": "LOGIN_FAILED_ATTEMPT",
+        "time": "2026-05-14 20:52",
+        "detail": "1 failed attempt(s)"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 20:52",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-14 23:37",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-15 11:51",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:52",
+        "detail": "Label: Google Account"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:53",
+        "detail": "Label: Helb (he.f.c.o.ke)"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:54",
+        "detail": "Label: Instagram"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:55",
+        "detail": "Label: Kabarak elearning portal"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:56",
+        "detail": "Label: Openai"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:57",
+        "detail": "Label: Paypal"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 11:58",
+        "detail": "Label: Snapchat"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:01",
+        "detail": "Label: Twitter (X)"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:01",
+        "detail": "Label: PC"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:02",
+        "detail": "Label: Yahoo email account"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:04",
+        "detail": "Label: Kabarak Student email"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:05",
+        "detail": "Label: NETFLIX"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:07",
+        "detail": "Label: Card details"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:08",
+        "detail": "Label: Digitalised Journal"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:08",
+        "detail": "Label: Zoom"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:09",
+        "detail": "Label: UPWORK SITE"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:11",
+        "detail": "Label: Projects google account"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-15 12:26",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:27",
+        "detail": "Label: ecitizen.go.ke"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:28",
+        "detail": "Label: Duolingo"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:29",
+        "detail": "Label: Facebook"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:29",
+        "detail": "Label: Github.com"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:30",
+        "detail": "Label: Jumia"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:31",
+        "detail": "Label: Spotify"
+    },
+    {
+        "event": "Password added",
+        "time": "2026-05-15 12:32",
+        "detail": "Label: ZOOM KABARAK"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-15 12:58",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-15 13:04",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-15 13:09",
+        "detail": "User logged into vault"
+    },
+    {
+        "event": "Login successful",
+        "time": "2026-05-15 15:25",
+        "detail": "User logged into vault"
+    }
+]
