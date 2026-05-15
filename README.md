@@ -51,8 +51,8 @@ It allows users to safely store, manage, and retrieve passwords using encryption
 ---
 
 ## 📦 How to Run
-```bash id="fix3"
-git add README.md
-git commit -m "Fix README formatting"
-git push -u origin main
+
+```bash
+pip install -r requirements.txt
+python src/gui.py
 
