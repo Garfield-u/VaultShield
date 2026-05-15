@@ -1,3 +1,4 @@
+
 # VaultShield 🔐
 
 VaultShield is a secure password manager built with Python and Tkinter.  
@@ -50,6 +51,8 @@ It allows users to safely store, manage, and retrieve passwords using encryption
 ---
 
 ## 📦 How to Run
-```bash
-pip install -r requirements.txt
-python src/gui.py
+```bash id="fix3"
+git add README.md
+git commit -m "Fix README formatting"
+git push -u origin main
+
