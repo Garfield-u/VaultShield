@@ -71,7 +71,9 @@ def load_settings():
     if not os.path.exists(SETTINGS_FILE):
 
         default_settings = {
-            "auto_lock": 120
+            "auto_lock": 120,
+            "sort_method": "newest",
+            "category_mode": False
         }
 
         with open(SETTINGS_FILE, "w") as f:
@@ -1333,6 +1335,11 @@ container = tk.Frame(root, bg="#030712")
 container.pack(fill="both", expand=True)
 
 root.title("VaultShield - Secure Password Manager")
+try:
+    root.iconbitmap(resource_path("docs/icon.ico"))
+except tk.TclError:
+    pass  # Ignore if icon is not found
+
 root.geometry("400x400")
 root.configure(bg="#030712")
 
