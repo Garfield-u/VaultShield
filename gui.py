@@ -3390,12 +3390,10 @@ def logout_user():
 
 def open_settings():
 
-    root.update_idletasks()
-
+    hide_all_frames()
     
-    
-    # create frame first (NOT shown yet)
     settings_frame = tk.Frame(root, bg="#030712")
+    settings_frame.pack(fill="both", expand=True)
 
     # ---------------- TOP BAR ----------------
 
@@ -3455,8 +3453,6 @@ def open_settings():
         highlightthickness=0
     )
 
-    canvas.pack(side="left", fill="both", expand=True)
-
     scrollbar = tk.Scrollbar(
         main_frame,
         orient="vertical",
@@ -3464,6 +3460,8 @@ def open_settings():
     )
 
     scrollbar.pack(side="right", fill="y")
+
+    canvas.pack(side="left", fill="both", expand=True)
 
     canvas.configure(yscrollcommand=scrollbar.set)
 
@@ -3488,8 +3486,7 @@ def open_settings():
     canvas_window = canvas.create_window(
         (0, 0),
         window=container,
-        anchor="nw",
-        width=canvas.winfo_width()
+        anchor="nw"
     )
 
     def resize_canvas(event):
@@ -3563,13 +3560,6 @@ def open_settings():
     create_setting("⬇ Check For New Features", check_for_updates)
 
     create_setting("ℹ About App", about_app)
-
-    root.after_idle(lambda: settings_frame.place(
-        relx=0,
-        rely=0,
-        relwidth=1,
-        relheight=1
-    ))
 
 
     
